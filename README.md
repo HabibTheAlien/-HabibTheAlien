@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Habibur Rahman
 ![MERN Stack Developer](https://scontent.fdac68-1.fna.fbcdn.net/v/t39.30808-6/278576891_1875740182609236_8810159526179795376_n.jpg?stp=dst-jpg_p180x540&_nc_cat=107&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeF9Bxxrk4c3fcEGZuSAtqM1Qywupnm8JExDLC6mebwkTP1dKYAKApBX3MvyqAl48nRg0WTtfD1eZ5eL9OO1ZkaU&_nc_ohc=03SnDmohJVkAX-fmjQc&_nc_zt=23&_nc_ht=scontent.fdac68-1.fna&oh=00_AT97D1aCzmhKmoGsH3WObskAYnuJHICCJKP597848r6jUw&oe=626EC14F)
+# 👋 Hi there , I'm Habibur Rahman 
 
 #### MERN Stack Developer
 
@@ -23,6 +23,9 @@ I make projects just for fun, which make me more skill specially in MERN Stack. 
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Fluent
 - 🇮🇳 Hindi : Fluent
 
+
+
+#### Important
 - 🔭 I’m currently working on Data Science 
 - 🌱 I’m currently learning Artificial Intelligence 
 - 👯 I’m looking to collaborate on Machine Learning 
