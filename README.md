@@ -6,17 +6,18 @@
 I make projects just for fun, which make me more skill specially in MERN Stack. Programming is my passion. I love to create something with my hand and use it for solving real life problems.
 
 #### Skills:
-- NODE.js
-- EXPRESS.js
-- MONGODB
-- REACT
+- MongoDB
+- Express.js
+- React
+- Node.js
 - API
-- JAVASCRIPT
+- JavaScript
 - SASS
 - HTML
 - CSS
-- BOOTSTRAP
-- MYSQL
+- BootStrap
+- MySQL
+- Python
 
 #### Languages:
 - 🇧🇩 Bangla : Native
@@ -25,7 +26,7 @@ I make projects just for fun, which make me more skill specially in MERN Stack. 
 
 
 
-#### Important
+#### Important:
 - 🔭 I’m currently working on Data Science 
 - 🌱 I’m currently learning Artificial Intelligence 
 - 👯 I’m looking to collaborate on Machine Learning 
