@@ -15,9 +15,14 @@ I make projects just for fun, which make me more skill specially in MERN Stack. 
 - SASS
 - HTML
 - CSS
+- Styled Component
+- Material UI
 - BootStrap
 - MySQL
 - Python
+- C++
+- C
+- R
 
 #### Languages:
 - 🇧🇩 Bangla : Native
