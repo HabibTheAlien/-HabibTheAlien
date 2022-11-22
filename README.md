@@ -15,14 +15,16 @@ I make projects just for fun, which make me more skill specially in MERN Stack. 
 - MongoDB
 - Express.js
 - React
+- Next.js
 - Node.js
 - API
 - JavaScript
+- TypeScript
 - SASS
-- HTML
-- CSS
 - Styled Component
 - Material UI
+- Firebase
+- Socket io
 - BootStrap
 - MySQL
 - Python
