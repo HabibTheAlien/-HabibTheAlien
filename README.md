@@ -12,22 +12,25 @@
 I make projects just for fun, which make me more skill specially in MERN Stack. Programming is my passion. I love to create something with my hand and use it for solving real life problems.
 
 #### Skills:
-- MongoDB
-- Express.js
+
 - React
 - Next.js
+- React Native
 - Node.js
-- API
+- MongoDB
+- Express.js
 - JavaScript
 - TypeScript
+- Tailwind CSS
 - SASS
+- BootStrap
 - Styled Component
 - Material UI
 - Firebase
 - Socket io
-- BootStrap
 - MySQL
 - Python
+- Prompt Engineering 
 - C++
 - C
 - R
